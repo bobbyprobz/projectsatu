@@ -14,7 +14,7 @@
               <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="headingOne">
                   <h4 class="panel-title">
-                    <a href="index.php">home</a>
+                    <a href="index.php">home cuy</a>
                   </h4>
                 </div>
               </div>
@@ -28,7 +28,7 @@
               <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="headingTwo">
                   <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionz" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       package <span class="caret"></span>
                     </a>
                   </h4>
@@ -37,7 +37,6 @@
                   <div class="panel-body">
                      <ul>
                         <li><a href="packagediet.php">blekros diet program</a></li>
-                        <li><a href="packagemaintenance.php">blekros maintenance program</a></li>
                         <li><a href="packagenipka.php">blekros x nipka</a></li>
                      </ul>                    
                   </div>
