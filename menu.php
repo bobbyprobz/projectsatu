@@ -7,7 +7,6 @@
               <div class="panel panel-default">
                 <div class="panel-heading panel-order" role="tab" id="headingZero">
                   <h4 class="panel-title">
-                    <a class="ordernow" href="index.php">ORDER NOW</a>
                   </h4>
                 </div>
               </div>
